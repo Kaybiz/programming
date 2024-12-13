@@ -1,2 +1,15 @@
 ../.DS_Store
-../*.code-workspace
+../Cat&Class.code-workspace
+../cea-terraform/
+../cloudengineering.code-workspace
+../github_actions_workflows/
+../lambda-cicd/
+../terraform-portfolio-project/
+
+../.DS_Store
+../Cat&Class.code-workspace
+../cea-terraform/
+../cloudengineering.code-workspace
+../github_actions_workflows/
+../lambda-cicd/
+../terraform-portfolio-project/
